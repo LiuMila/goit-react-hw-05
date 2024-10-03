@@ -1,0 +1,14 @@
+.link {
+    text-decoration: none;
+  }
+  
+  .active {
+    color: orangered;
+  }
+  .list{
+    
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+  }
